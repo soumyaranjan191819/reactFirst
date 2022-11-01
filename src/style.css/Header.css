@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(246, 240, 240);
+    box-shadow: 0 0 10px;
+    padding: 1rem;
+    
+    
+}
+
+nav > a{
+    font:600 1.7rem cursive;
+    color:rgb(37,105,208);
+    text-decoration:none;
+    margin: 0 1rem;
+}
